@@ -24,7 +24,7 @@ ENV JDBC_MAX_WAIT 30000
 ENV JDBC_INITIAL_SIZE 50
 ENV JDBC_VALIDATION_QUERY 'SELECT 1'
 
-# Provide variables for the name of the rules and data schema
+# Provide variables for the name of the rules and data schema 
 ENV RULES_SCHEMA pegarules
 ENV DATA_SCHEMA pegadata
 
